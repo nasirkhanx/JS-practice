@@ -1,0 +1,22 @@
+div{
+    display: flex;
+    justify-content: center;
+    
+}
+.B{
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 28px;
+    width: 90px;
+    border: solid rgb(0, 0, 0);
+    border-width: 1px;
+    border-radius: 5px;
+    background-color: rgb(41, 255, 184);
+}
+#number{
+    display: flex;
+    justify-content: center;
+    font-size: 80px;
+    padding: 0px;
+    margin: 10px;
+}
